@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="LA 1"  tvg-name="LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png" group-title="TDT", LA 1
+http://relectro.xyz:8080/live/JoseWeib-TV/A5wjQDud0T/46464.ts
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png" group-title="TDT", LA 2
+http://relectro.xyz:8080/live/JoseWeib-TV/A5wjQDud0T/46465.ts
+#EXTINF:-1 tvg-id="ANTENA 3" tvg-name="ANTENA 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png" group-title="TDT",ANTENA 3
+http://relectro.xyz:8080/live/JoseWeib-TV/A5wjQDud0T/46466.ts
+#EXTINF:-1 tvg-id="CUATRO" tvg-name="CUATRO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png" group-title="TDT",CUATRO
+http://relectro.xyz:8080/live/JoseWeib-TV/A5wjQDud0T/46467.ts
+#EXTINF:-1 tvg-id="TELECINCO" tvg-name="TELECINCO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png" group-title="TDT",TELECINCO
+http://relectro.xyz:8080/live/JoseWeib-TV/A5wjQDud0T/46468.ts
+#EXTINF:-1 tvg-id="LA SEXTA" tvg-name="LA SEXTA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png" group-title="TDT",LA SEXTA
+http://relectro.xyz:8080/live/JoseWeib-TV/A5wjQDud0T/46473.ts
+#EXTINF:-1 tvg-id="Movistar Plus+ FHD" tvg-name="M+ PLUS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="M+", M+ PLUS
+http://relectro.xyz:8080/live/JoseWeib-TV/A5wjQDud0T/46474.ts
+#EXTINF:-1 tvg-id="Movistar plus+ 2 FHD" tvg-name="Movistar plus+ 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/2560px-Movistar_Plus%2B_2022_logo.svg.png" group-title="M+",M+ PLUS 2
+http://relectro.xyz:8080/live/JoseWeib-TV/A5wjQDud0T/23378.ts
+#EXTINF:-1 tvg-id="M+ Cine" tvg-name="ES : M+ CINE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png" group-title="M+",M+ CINE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46493
+#EXTINF:-1 tvg-id="M+ SERIES" tvg-name="ES : M+ SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV2.png" group-title="M+",M+ SERIES
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46494
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="ES : M+ ORIGINALES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MORIG.png" group-title="M+",M+ ORIGINALES
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46495
+#EXTINF:-1 tvg-id="M+ CRACKS" tvg-name="ES : M+ TERROR (pop)" tvg-logo="https://cdn.discordapp.com/attachments/1147920527344812205/1169299493229973524/TERROR.png?ex=6554e603&is=65427103&hm=805979b21138a58f424e3f69f5723571083b110092bbe09658b74b2d20741cc1&" group-title="M+",M+ TERROR
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46496
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES : M+ DOCUMENTALES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MDOC.png" group-title="M+",M+ DOCUMENTALES
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46497
+#EXTINF:-1 tvg-id="M+ Música" tvg-name="ES : M+ MÚSICA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png" group-title="M+",M+ MÚSICA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46498
+#EXTINF:-1 tvg-id="M+ La Resistencia" tvg-name="ES : LA RESISTENCIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/RESIST.png" group-title="M+",LA RESISTENCIA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46499
+#EXTINF:-1 tvg-id="M+ CLÁSICOS" tvg-name="ES : M+ CLÁSICOS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png" group-title="M+",M+ CLÁSICOS
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46500
+#EXTINF:-1 tvg-id="M+ ACCIÓN" tvg-name="ES : M+ ACCIÓN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png" group-title="M+",M+ ACCIÓN
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46501
+#EXTINF:-1 tvg-id="M+ COMEDIA" tvg-name="ES : M+ COMEDIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png" group-title="M+",M+ COMEDIA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46502
+#EXTINF:-1 tvg-id="M+ DRAMA" tvg-name="ES : M+ DRAMA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png" group-title="M+",M+ DRAMA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46503
+#EXTINF:-1 tvg-id="M+ Suspense" tvg-name="ES : M+ SUSPENSE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MSUSP.png" group-title="M+",M+ SUSPENSE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46504
+#EXTINF:-1 tvg-id="M+ Indie" tvg-name="ES : M+ INDIE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MINDI.png" group-title="M+",M+ INDIE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46505
+#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="ES : M+ CINE ESPAÑOL" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="M+",M+ CINE ESPAÑOL
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46506
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD [SAT]" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DAZN",DAZN F1 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27780
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN",DAZN 1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/290
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/externo/M2SD" group-title="DAZN",DAZN 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/293
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN 3 FHD (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/externo/DAZN3" group-title="DAZN",DAZN 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/675
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN 4 FHD (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/externo/DAZN4" group-title="DAZN",DAZN 4 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/676
+#EXTINF:-1 tvg-id="DAZN LALIGA HD" tvg-name="DAZN LALIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/externo/DAZNLI" group-title="LaLiga",DAZN LALIGA 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/178
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/externo/DAZNL2" group-title="LaLiga",DAZN LALIGA 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/203
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LaLiga",M+ LALIGA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27745
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 2 FHD (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/externo/MLIG1" group-title="LaLiga",M+ LALIGA 2 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/669
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/externo/MLIG2" group-title="LaLiga",M+ LALIGA 3 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/185
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27747
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 FHD [SAT]" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 2 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29735
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/225
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4 BAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 4 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/41310
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 5 FHD (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 5 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/667
+#EXTINF:-1 tvg-id="#Vamos" tvg-name="#Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1280px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes M+",#Vamos
+http://relectro.xyz:8080/live/JoseWeib-TV/A5wjQDud0T/46475.ts
+#EXTINF:-1 tvg-id="" tvg-name="#Ellas FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="Deportes M+",#Ellas
+http://relectro.xyz:8080/live/JoseWeib-TV/A5wjQDud0T/276.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes M+",M+ Deportes
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27791
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="Deportes M+",M+ Deportes 2 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27793
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="Deportes M+",M+ Deportes 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/267
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="Deportes M+",M+ Deportes 4 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/270
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="Deportes M+",M+ Deportes 5 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/272
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 6 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" group-title="Deportes M+",M+ Deportes 6 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6213
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF HD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="Deportes M+",M+ GOLF 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27794
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="Deportes M+",M+ GOLF 2 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/281
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="+ Deportes",EUROSPORT 1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27796
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2 FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="+ Deportes",EUROSPORT 2 
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27798
+#EXTINF:-1 tvg-id="" tvg-name="Liga Sports TV FHD" tvg-logo="https://static.laligaplus.laliga.com/llplus-resources-pro/web/graphics/icons/navbar/logo-LLPLUS.png" group-title="+ Deportes",LaLiga+
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17341
